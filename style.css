@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+label, input{
+ display: block;
+ width: 24vw;
+ 
+ margin-top: 10px;
+font-size: larger;
+background-color: lightblue;
+}
+img{
+    background-color: white;
+    width: 30vw;
+    height: 35vh
+    
+ }
+ #bir{
+    float: left;
+    display: block;
+    margin-left: 100px;
+    
+   }
+ #iki{
+    float: right;
+ 
+    
+ }
+ textarea{
+    margin-top: 10px;
+    background-color: lightblue;
+ }
+ form{
+   
+ }
+ button{
+   display: block;
+   font-size: larger;
+    border-radius: 5px;
+   background-color: black;
+   color: white;
+ }
+ h1{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   width: 30vw;
+ }
+ p{
+   width: 30vw;
+   color: blue;
+ }
+ div{
+   
+ }
+ body{
+   padding-top: 100px ;
+   
+ }
